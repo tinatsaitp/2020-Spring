@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 02.24.2020
 #This program is to replace words in the sentence.
 
 template = "If it VERB1 like a NOUN and VERB2 like a NOUN, it probably is a NOUN."

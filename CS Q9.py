@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 02.20.2020
 #This program is to encrypt message.
 
 mess = input("What does the word you want to put in?" )

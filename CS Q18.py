@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 03.04.2020
 #This program is to count the number of coins.
 
 cents = int(input("How many cents you have as an integer? "))

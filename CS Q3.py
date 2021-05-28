@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 02.10.2020
 #This program is to make a pink screen.
 
 import turtle

@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 03.06.2020
 #This program is to create a image with blue stripes.
 
 num = int(input("What is the size of your imaage? "))

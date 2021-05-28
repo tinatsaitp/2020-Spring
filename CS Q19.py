@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 03.05.2020
 #This program is to make a turtle spiral.
 
 mess = int(input("How many number of stemps? "))

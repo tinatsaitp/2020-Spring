@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: January 31, 2020
+#Date: 02.07.2020
 #This program draws a decagon.
 
 import turtle

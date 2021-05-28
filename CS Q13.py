@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 02.26.2020
 #This program is to change the Image's color.
 
 import matplotlib.pyplot as plt

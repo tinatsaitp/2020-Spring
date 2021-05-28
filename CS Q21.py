@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 03.09.2020
 #This program is to organize a list of names.
 
 namelist = input("What are your name lists? ")

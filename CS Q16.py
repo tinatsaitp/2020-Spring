@@ -1,6 +1,6 @@
 #Name: Yun-Ting Tsai
 #Email: Yun-Ting.Tsai01@myhunter.cuny.edu
-#Date: ,2020
+#Date: 03.02.2020
 #This program is to convert kilograms to pounds.
 
 mess = input("What is the wight in kilograms? ")
