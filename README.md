@@ -1,2 +1,2 @@
 # 2020-Spring
-All works are done in 2020 Spring semester
+All CS works are done in the 2020 Spring semester
