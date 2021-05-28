@@ -1,0 +1,40 @@
+//Name: Yun-Ting Tsai
+//Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+//Date: May 08 ,2020
+//This program is to create a code for season greetings in C++.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int num;
+cout <<"Enter the month of the year: ";
+cin >> num;
+if (num == 3)
+    {
+    cout <<"Happy Spring";
+    }
+if (num == 7)
+    {
+    cout <<"Happy Summer";
+    }
+else if (num < 3 or num > 11)
+	{
+	cout <<"Happy Winter";
+	}
+else if (num > 3 and num < 7)
+	{
+	cout <<"Happy Spring";
+	}
+
+else if (num > 7 and num < 9)
+	{
+	cout <<"Happy Summer";
+	}
+else
+	{
+	cout <<"Happy Fall";
+	}
+return 0;
+}

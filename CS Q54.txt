@@ -1,0 +1,18 @@
+//Name: Yun-Ting Tsai
+//Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+//Date: May 01 ,2020
+//This program is to print "I love CUNY" 9 times in C++.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int i;   //The index variable for the loop
+
+for (i = 0; i < 9; i++)   //The variable i first takes on the value 0, and the loop will repeat 9 times
+	{
+	cout << "I love CUNY\n";   //'cout' doesn't put output on a newline, so we need to include the new line character ("\n") at the end of the line
+	}
+	return 0;
+}

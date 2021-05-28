@@ -1,0 +1,8 @@
+#Name: Yun-Ting Tsai
+#Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+#Date: March 24, 2020
+#This program is to create a arithmetic circuit.
+
+out1 = in1 and in2
+out2 = (in2 or in1) and not (in1 and in2)
+out3 = not in2

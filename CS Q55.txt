@@ -1,0 +1,24 @@
+//Name: Yun-Ting Tsai
+//Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+//Date: May 01 ,2020
+//This program is to convert Kilometers into Miles in C++.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+float km;   //Make a variable as miles
+float miles;
+
+cout << "Enter a km";
+cin >> km;   //Reads in the number the user entered and stores it in km
+
+miles = 0.621371* km;
+cout << miles << " miles";   //print(miles, "miles")
+
+return 0;
+}
+
+//'cin' is for input to the program
+//'cout' is output from the program

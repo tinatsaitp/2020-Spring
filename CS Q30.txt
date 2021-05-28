@@ -1,0 +1,6 @@
+#Name: Yun-Ting Tsai
+#Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+#Date: March 24, 2020
+#This program is to print ""Hello, Hunter College!!!" by using Unix Script.
+
+echo "Hello, Hunter College!!!"

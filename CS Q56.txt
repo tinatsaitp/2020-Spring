@@ -1,0 +1,20 @@
+//Name: Yun-Ting Tsai
+//Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+//Date: May 02 ,2020
+//This program is to make character graphics in C++.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int n, i, j;   //i = start; j = stop
+cout << "Enter the number of stars: ";
+cin >> n;
+for (i = 1; i <= n; i++)
+	{
+	for (j = 1; j <= i; j++)
+		cout << "*";
+	cout << endl;
+	}
+}

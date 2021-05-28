@@ -1,0 +1,10 @@
+#Name: Yun-Ting Tsai
+#Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+#Date: May 01 ,2020
+#This program is to create directories for project.
+
+mkdir projectFiles
+cd projectFiles
+mkdir images
+mkdir files
+mkdir results

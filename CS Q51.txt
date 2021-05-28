@@ -1,0 +1,12 @@
+#Name: Yun-Ting Tsai
+#Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+#Date: May 01 ,2020
+#This program is to do loops in machine language.
+
+ADDI $s0, $zero, 0   #set s0 = 0
+ADDI $s1, $zero, 5   #set s1 = 5, then increase 5 each time in the loop and store it in $s0
+ADDI $t0, $zero, 50   #set t0 = 50(as the stop number)
+AGAIN: ADD $s0, $s1, $s0   #Add $s1 from $s0 and store result in $s0 ($s0 = $s0 + $s1)
+BEQ $t0, $s0, DONE   #If $t0(50) equals s0, finish the loop
+J AGAIN   #If it does not satisfy the condition, then repeat the loop.
+DONE: #to break out and end the loop

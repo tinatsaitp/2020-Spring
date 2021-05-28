@@ -1,0 +1,24 @@
+//Name: Yun-Ting Tsai
+//Email: Yun-Ting.Tsai01@myhunter.cuny.edu
+//Date: May 08 ,2020
+//This program is to detect the age of the user in C++.
+
+#include <iostream>
+using namespace std;
+
+int main()
+{
+int num;
+cout <<"Enter your age: ";
+cin >> num;
+if (num > 0)
+    {
+    cout <<"You entered yout age as: " << num;
+    }
+else
+	{
+	cout <<"Entered a negative number.\n";
+	return main();
+	}
+return 0;
+}
